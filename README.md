@@ -76,7 +76,7 @@ The optical flow algorithm processes sequential frames to detect motion. Below a
 
 Below is a comprehensive visualization of different movement patterns and their corresponding optical flow representations:
 
-![Movement Experiments](Examples/movement_experiments.jpg)
+![Movement Experiments](Examples/experiments.png)
 *Various movement patterns and their optical flow signatures*
 
 This visualization demonstrates how different types of motion (translation, rotation, scaling, etc.) appear in the optical flow field, providing a reference for interpreting flow patterns in real-world applications.
