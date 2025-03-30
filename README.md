@@ -59,8 +59,19 @@ python optical_flow.py --image1 first_image.jpg --image2 second_image.jpg --outp
 
 ## Examples
 
-![Optical Flow Example](example_flow.jpg)
-*Example of optical flow visualization showing motion vectors.*
+### Input Images and Flow Result
+
+The optical flow algorithm processes sequential frames to detect motion. Below are sample results:
+
+![First Frame](Examples/start.png)
+*First input frame (starting point)*
+
+![Second Frame](Examples/end.png)
+*Second input frame (ending point)*
+
+![Optical Flow Result](Examples/flow.png)
+*Resulting optical flow visualization showing motion vectors*
+
 
 ## Implementation Details
 
