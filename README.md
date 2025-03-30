@@ -109,10 +109,6 @@ python optical_flow.py --webcam --div 2
 - **Noisy flow vectors**: Increase the `smooth` parameter
 - **Webcam not detected**: Check your camera connection and permissions
 
-## License
-
-[MIT License](LICENSE)
-
 ## Credits
 
 This implementation is based on the Lucas-Kanade method for optical flow estimation.
