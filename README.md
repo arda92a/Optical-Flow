@@ -27,7 +27,7 @@ The implementation follows these key steps:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/optical-flow.git
+git clone https://github.com/arda92a/Optical-Flow.git
 cd optical-flow
 
 # Install required packages
