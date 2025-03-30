@@ -69,7 +69,7 @@ The optical flow algorithm processes sequential frames to detect motion. Below a
 ![Second Frame](Examples/end.png)
 *Second input frame (ending point)*
 
-![Optical Flow Result](Examples/flow.png)
+![Optical Flow Result](Examples/flow.jpg)
 *Resulting optical flow visualization showing motion vectors*
 
 
